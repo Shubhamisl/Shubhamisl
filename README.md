@@ -66,8 +66,9 @@ I build AI-assisted tools, research workflows, and practical full-stack apps. My
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shubhamisl&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0f172a&title_color=14b8a6&icon_color=38bdf8&text_color=e5e7eb" alt="Shubham's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamisl&layout=compact&hide_border=true&theme=tokyonight&bg_color=0f172a&title_color=14b8a6&text_color=e5e7eb" alt="Shubham's top languages" />
+[![Public repos](https://img.shields.io/badge/Public_repos-26-0f172a?style=for-the-badge&logo=github&logoColor=white&labelColor=2563eb)](https://github.com/Shubhamisl?tab=repositories)
+[![Primary stack](https://img.shields.io/badge/Primary_stack-Python_%2B_TypeScript-0f172a?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=14b8a6)](https://github.com/Shubhamisl?tab=repositories)
+[![Latest focus](https://img.shields.io/badge/Latest_focus-AI_tools_%26_research_systems-0f172a?style=for-the-badge&logo=openai&logoColor=white&labelColor=f59e0b)](https://github.com/Shubhamisl?tab=repositories)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubhamisl&bg_color=0f172a&color=e5e7eb&line=14b8a6&point=38bdf8&area=true&hide_border=true" alt="Shubham's contribution activity graph" />
 
