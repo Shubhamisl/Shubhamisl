@@ -92,3 +92,5 @@ Product prototypes                 -> clean web apps that make complex workflows
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:14b8a6,55:2563eb,100:0f172a" alt="Footer wave" />
+
+<!-- Profile README refreshed: 2026-05-12 -->
